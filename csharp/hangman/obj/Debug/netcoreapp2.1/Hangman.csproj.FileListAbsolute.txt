@@ -1,0 +1,13 @@
+/Users/balazs/Exercism/csharp/hangman/obj/Debug/netcoreapp2.1/Hangman.csprojAssemblyReference.cache
+/Users/balazs/Exercism/csharp/hangman/obj/Debug/netcoreapp2.1/Hangman.AssemblyInfoInputs.cache
+/Users/balazs/Exercism/csharp/hangman/obj/Debug/netcoreapp2.1/Hangman.AssemblyInfo.cs
+/Users/balazs/Exercism/csharp/hangman/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/balazs/Exercism/csharp/hangman/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/balazs/Exercism/csharp/hangman/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/balazs/Exercism/csharp/hangman/bin/Debug/netcoreapp2.1/Hangman.deps.json
+/Users/balazs/Exercism/csharp/hangman/bin/Debug/netcoreapp2.1/Hangman.runtimeconfig.json
+/Users/balazs/Exercism/csharp/hangman/bin/Debug/netcoreapp2.1/Hangman.runtimeconfig.dev.json
+/Users/balazs/Exercism/csharp/hangman/bin/Debug/netcoreapp2.1/Hangman.dll
+/Users/balazs/Exercism/csharp/hangman/bin/Debug/netcoreapp2.1/Hangman.pdb
+/Users/balazs/Exercism/csharp/hangman/obj/Debug/netcoreapp2.1/Hangman.dll
+/Users/balazs/Exercism/csharp/hangman/obj/Debug/netcoreapp2.1/Hangman.pdb

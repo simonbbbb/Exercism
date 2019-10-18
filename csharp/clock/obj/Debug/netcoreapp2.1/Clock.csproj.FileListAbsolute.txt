@@ -1,0 +1,13 @@
+/Users/balazs/Exercism/csharp/clock/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/balazs/Exercism/csharp/clock/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/balazs/Exercism/csharp/clock/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/balazs/Exercism/csharp/clock/bin/Debug/netcoreapp2.1/Clock.deps.json
+/Users/balazs/Exercism/csharp/clock/bin/Debug/netcoreapp2.1/Clock.runtimeconfig.json
+/Users/balazs/Exercism/csharp/clock/bin/Debug/netcoreapp2.1/Clock.runtimeconfig.dev.json
+/Users/balazs/Exercism/csharp/clock/bin/Debug/netcoreapp2.1/Clock.dll
+/Users/balazs/Exercism/csharp/clock/bin/Debug/netcoreapp2.1/Clock.pdb
+/Users/balazs/Exercism/csharp/clock/obj/Debug/netcoreapp2.1/Clock.csprojAssemblyReference.cache
+/Users/balazs/Exercism/csharp/clock/obj/Debug/netcoreapp2.1/Clock.AssemblyInfoInputs.cache
+/Users/balazs/Exercism/csharp/clock/obj/Debug/netcoreapp2.1/Clock.AssemblyInfo.cs
+/Users/balazs/Exercism/csharp/clock/obj/Debug/netcoreapp2.1/Clock.dll
+/Users/balazs/Exercism/csharp/clock/obj/Debug/netcoreapp2.1/Clock.pdb
